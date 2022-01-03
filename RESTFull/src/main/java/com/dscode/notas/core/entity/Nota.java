@@ -13,7 +13,7 @@ import javax.persistence.Table;
 public class Nota implements Serializable{
 	
 	/**
-	 * 
+	 * Entidad actualizada
 	 */
 	private static final long serialVersionUID = 1L;
 
