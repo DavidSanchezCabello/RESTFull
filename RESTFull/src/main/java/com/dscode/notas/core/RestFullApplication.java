@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class RestFullApplication {
-	// Comentario realizado desde GitHub para probar el pull desde Eclipse 
+	// Añadido cambio sobre rama testing
 	public static void main(String[] args) {
 		SpringApplication.run(RestFullApplication.class, args);
 	}
